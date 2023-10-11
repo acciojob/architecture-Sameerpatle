@@ -1,16 +1,19 @@
 /*  your css code here. If applicable */
-*{
+body{
 	width:1100px;
-	padding:0px;
-	margin:0px;
 }
+
+tr,td{
+	border: 2px solid black;
+}
+
 .col1{
-	width:200px;
+	width: 200px;
+}
+col2{
+	width: 600px;
 	
 }
-.col2{
-	width:600px;
-}
-.col3{
-	width:200px;
+col3{
+	width: 200px;
 }
